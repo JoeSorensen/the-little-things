@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
+  "modid": "vpp",
+  "name": "Vanilla++",
+  "description": "A small mod that fixes the abomination that we call 'Minecraft'",
+  "version": "0.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["JoeSorensen", "DrLOGiQ"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
