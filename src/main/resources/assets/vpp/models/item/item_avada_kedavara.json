@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "vpp:items/item_avada_kedavara"
+  }
+}

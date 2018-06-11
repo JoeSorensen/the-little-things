@@ -5,7 +5,7 @@
   "description": "A small mod that fixes the abomination that we call 'Minecraft'",
   "version": "0.0",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/JoeSorensen/vanilla-plus-plus",
   "updateUrl": "",
   "authorList": ["JoeSorensen", "DrLOGiQ"],
   "credits": "",

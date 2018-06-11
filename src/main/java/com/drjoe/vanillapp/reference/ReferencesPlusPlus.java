@@ -9,4 +9,7 @@ public class ReferencesPlusPlus
 	
 	public static final String CLIENT_PROXY = "com.drjoe.vanillapp.proxy.ClientProxy";
 	public static final String SERVER_PROXY = "com.drjoe.vanillapp.proxy.ServerProxy";
+	
+	// Item unlocalized names
+	public static final String ITEM_AVADA_KEDAVARA = "item_avada_kedavara";
 }
